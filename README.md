@@ -2,8 +2,6 @@
 
 Bash script that uses Tor to change your IP at specified intervals.
 
-![gp](https://github.com/STD-DEEPANSHU/ip-changer/assets/30112537/34e1c4e2-ec79-4ef3-b0a2-e99eee48bb4b)
-
 ## Installation
 
 You can either `git clone` the repository or `curl` the Bash script.
